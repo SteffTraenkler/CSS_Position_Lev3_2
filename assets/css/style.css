@@ -32,10 +32,14 @@ div{
     border-radius: 50em;
     position: absolute;
     z-index: 1;
-    color: red;
     text-align: center;
     right: 7%;
     top: 9%;
+}
+
+a{
+    text-decoration: none;
+    color: red;
 }
 
 h1{
